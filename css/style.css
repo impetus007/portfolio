@@ -1,0 +1,116 @@
+body{
+    margin:0;
+    text-align: center;
+}
+
+h1{
+    font-size: 6rem;
+    font-family: 'Tangerine', cursive;
+}
+
+.head{
+    background-color:#E4EFE7;
+    
+    padding: 10% 7% 0;
+    position: relative;
+    
+}
+
+.navbar{
+    background-color:#E4EFE7 ;
+    padding:2rem 3rem;
+    position: sticky;
+    
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.pheader{
+    font-size: 1.5rem;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+
+.mountains-img{
+    width:70%;
+
+}
+
+.bird-img{
+    width:10%;
+    position: absolute;
+    left:15%;
+    bottom:40%;
+    
+}
+
+.cloud-img{
+    width:20%;
+    position: absolute;
+    right:8%;
+    top:0.5%;
+    
+}
+ h2{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 4rem;
+}
+
+/* *********************   skills  *********************  */
+ #skills{
+     background-color:white  ;
+     padding: 10% 5%;
+
+ }
+
+.viimg{
+    width:70%;
+    padding: 12% 0;
+
+}
+
+.progress-bar{
+    background-color:#6fe28e ;
+}
+
+
+/* ******************projects******************** */
+
+#projects{
+    background-color: #E4EFE7;
+    padding: 3% 7% 3%;
+}
+
+.cards{
+    padding: 2%;
+    
+}
+
+
+/* ***********about******** */
+
+#about{
+    padding: 5% 7% ;
+}
+.aboutme{
+    margin:auto;
+    margin-top: 0;
+}
+.info{
+    padding: 10% 0;
+}
+
+
+/* *********contact********* */
+
+#footer{
+    padding: 3% 7%;
+    background-color:#E4EFE7; ;
+}
+
+.icons{
+    padding:4%
+}
+
